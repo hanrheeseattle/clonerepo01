@@ -18,3 +18,4 @@ while($count)
 	print "you pass one down and pass it around...\n";
 	$count--;
 }
+print "Then you have 99 bottles on the wall again!\n";
