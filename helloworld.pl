@@ -20,3 +20,4 @@ while($count)
 }
 print "Maybe that was good enough\n";
 print "or not";
+print "testing the mirror\n";
